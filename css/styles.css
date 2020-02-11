@@ -1,15 +1,33 @@
 h1{
-  color: black;
+  color: hsl(300, 40%, 50%);
 }
 
 h2{
-  color: black;
+  color: hsl(300, 40%, 50%);
+}
+
+h3{
+  color: hsl(300, 40%, 50%);
 }
 
 p{
-  color: black;
+  color: hsl(300, 40%, 50%);
+}
+
+ul{
+  color: hsl(300, 40%, 50%);
+}
+
+a:link{
+  color: hsl(300, 40%, 50%);
+}
+a:visited{
+  color: hsl(290, 40%, 50%);
+}
+a:hover{
+  color: hsl(310, 40%, 50%);
 }
 
 body{
-  background-color: white;
+  background-color: rgb(98, 5, 126);
 }
