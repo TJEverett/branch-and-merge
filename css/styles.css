@@ -1,15 +1,33 @@
 h1{
-  color: black;
+  color: salmon;
 }
 
 h2{
+  color: blue;
+}
+
+h3{
   color: black;
 }
 
 p{
-  color: black;
+  color: cyan;
+}
+
+ul{
+  color: hsl(0, 100%, 50%);
+}
+
+a:link{
+  color: hsl(0, 100%, 50%);
+}
+a:visited{
+  color: hsl(350, 100%, 50%);
+}
+a:hover{
+  color: hsl(10, 100%, 50%);
 }
 
 body{
-  background-color: white;
+  background-color: sienna;
 }
